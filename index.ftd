@@ -2,7 +2,7 @@
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
 -- import: gs-py.github.io/gladwin_fastn/lib
 
--- lib.page: 
+-- lib.page:
 
 -- lib.header:
 logo: $assets.files.assets.logo.jpg
@@ -16,11 +16,10 @@ cta-text-3-url: index.html
 
 -- hero-1.hero-1: I'm Gladwin Santhosh
 cta-button-1: Resume
-link-1: https://www.youtube.com/
+link-1: https://www.resume.com/
 cta-button-2: Schedule Meeting
 link-2: https://calendly.com/
-cover: $assets.files.assets.glad1.jpeg
-Welcome to my portfolio!.hehehe I am a passionate and experienced Computer Science Developer with a strong foundation in software development and a commitment to creating innovative solutions.
+cover: $assets.files.assets.ape-1.jpg
 
-
+im a cs engineer and enthusiast
 -- end: lib.page
